@@ -1,2 +1,2 @@
 # LobiAdmin
-A fully featured Responsivr Admin dashboard
+A fully featured Responsive Admin dashboard
