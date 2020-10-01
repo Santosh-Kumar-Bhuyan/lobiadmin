@@ -1,2 +1,2 @@
-# lobiadmin
-Responsive bootstrap admin panel
+# LobiAdmin
+A fully featured Responsivr Admin dashboard
